@@ -1,0 +1,34 @@
+a{
+    color: white !important;
+}
+
+
+/* .d-block{
+    width: 50% !important;
+} */
+
+.card{
+    padding-left: 10px;
+}
+
+
+
+.card-body1{
+color: white !important;
+background-color: aquamarine !important;
+
+}
+
+.card-body2{
+color: white !important;
+background-color: darkgoldenrod  !important;
+
+}
+
+.card-body3{
+color: white !important;
+background-color: cyan  !important;
+
+}
+
+
